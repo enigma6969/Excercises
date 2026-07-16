@@ -3,6 +3,9 @@
 
 #### Om Preetam, Valasa 
 
+## Submission Details
+All the python files with solutions are present in the folder Final_Lab
+Please download the folder and access the Solution files
 
 ## Environments
 The environment is available at [grid_world.py](Final_Lab\gymnasiun_env\gymnasium_envCatandMouse\envs\grid_world.py)
