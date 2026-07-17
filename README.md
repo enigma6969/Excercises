@@ -33,7 +33,7 @@ To install your new environment, run the following commands:
 
 ```{shell}
 cd gymnasium_envCatandMouse
-pip install gymnasium_envCatandMouse.
+pip install gymnasium_envCatandMouse
 ```
 ## How to run the code?
 - First, run the program as it is to set the initial weights.
